@@ -1,21 +1,35 @@
-MIT License
+# The "Don’t Be a Short-Circuit" Public License
+Version 1.0 (The ShuntBuddy Edition)
 
-Copyright (c) 2026 Daniel
+Copyright (c) 2026 Daniel Dyringer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this hardware design, software, and documentation (the "ShuntBuddy"), to 
+deal in the ShuntBuddy without restriction, including without limitation the 
+rights to use, copy, modify, merge, publish, or distribute, subject to the 
+following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. The "Not Evil" Clause
+The ShuntBuddy shall be used for Good, not Evil. If you are planning to use 
+this device to power a doomsday device, a robot that doesn't say "please," 
+or anything that generally makes the world a worse place, your license 
+is hereby revoked. 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 2. The "No Magic" Disclaimer
+THE SHUNTBUDDY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. 
+The creator is an engineer, not a wizard. If you hook this up to a 
+10kV power line and it turns into a small, expensive firework, 
+that is on you. 
+
+## 3. The "Keep it Grounded" Rule
+In no event shall the authors or copyright holders be liable for any claim, 
+damages, or other liability, whether in an action of contract, tort, or 
+otherwise, arising from, out of, or in connection with the ShuntBuddy or 
+the use or other dealings in the ShuntBuddy. 
+
+Basically: If you blow up your oscilloscope, don't come crying to ShuntBuddy. 
+He’s sensitive.
+
+## 4. Attribution
+If you make something cool with this, send a picture. It makes ShuntBuddy 
+feel like a real superhero.
