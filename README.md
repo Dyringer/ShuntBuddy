@@ -21,16 +21,16 @@ Simply connect ShuntBuddy to your scope via a BNC cable, power it via USB-C, and
 ## Technical Specifications
 
 * **Amplifier:** INA225 (High-precision, integrated gain resistors)
-* **Input Shunt:** 10mΩ ()
+* **Input Shunt:** 10mΩ 
 * **Power Input:** USB-C (5V)
 * **Output:** BNC (Compatible with all standard oscilloscopes)
-* **Form Factor:** Current-to-Voltage Probe (acts like a x10 or x100 scaling factor depending on settings)
+* **Form Factor:** Current-to-Voltage Probe (acts like a x10 probe)
 
 ### Gain & Current Ranges
 
 With the onboard **10mΩ shunt**, the following ranges are available via the DIP switch:
 
-| Setting | Gain () | Scale Factor | Max Current (at 5V Output) |
+| Setting | Gain () | Scale Factor | Max Current (at 4V Output) |
 | --- | --- | --- | --- |
 | **G1** | 25 | 250 mV/A | **16.0 A** |
 | **G2** | 50 | 500 mV/A | **8.0 A** |
